@@ -1,10 +1,6 @@
-Hello everyone! Here's a **complete `README.md`** for this project:
-
----
-
 # Chat with Multiple PDFs
 
-An AI-powered PDF assistant built with **Streamlit**, **LangChain**, **Chroma**, and **LLMs**. Upload one or more PDFs, ask questions in natural language, and get accurate, context-aware answers directly from your documents — with full session history and model flexibility.
+An AI-powered PDF assistant built with **LangChain**, **Chroma**, **LLMs**, and **Streamlit**. Upload one or more PDFs, ask questions in natural language, and get accurate, context-aware answers directly from your documents — with full session history and model flexibility.
 
 ---
 
